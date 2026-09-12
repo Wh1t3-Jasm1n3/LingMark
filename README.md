@@ -8,9 +8,9 @@ Free. No account. Nothing collected.
 
 ## Download
 
-**[LingMark 1.0.0 for Mac](https://lingmark.hling.app/download/LingMark_1.0.0_aarch64.dmg)** — 16 MB, notarised by Apple. Apple silicon, macOS 13 or later.
+**[LingMark 1.0.1 for Mac](https://lingmark.hling.app/download/LingMark_1.0.1_aarch64.dmg)** — 16 MB, notarised by Apple. Apple silicon, macOS 13 or later.
 
-SHA-256: `9f1326c0d2130c3aa407d616eca6c80e6e00f94ce31145acb04415971a192ab4`
+SHA-256: `b2061da1c5eb4dbeabe8a042085e87376c0d055776868a6f55719ce83ebfa2ec`
 
 Every version is also attached to a [release](https://github.com/Wh1t3-Jasm1n3/LingMark/releases) here.
 
