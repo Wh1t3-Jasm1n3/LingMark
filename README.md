@@ -2,7 +2,7 @@
 
 **Your notes are files. They stay that way.**
 
-LingMark is a Markdown notes app for the Mac. Your notes are plain `.md` files in a folder you choose, and the app never rewrites a line you did not touch. A rich editor and a Markdown source editor over the same file; Obsidian-compatible links, embeds, callouts and attachments; a knowledge graph; boards; and git built in, with nothing to install.
+LingMark is a Markdown notes app for the Mac. Your notes are plain `.md` files in a folder you choose, and the app never rewrites a line you did not touch. A rich editor and a Markdown source editor over the same file; wiki links, embeds, callouts and attachments in the syntax your notes already use; a knowledge graph; boards; and git built in, with nothing to install.
 
 Free. No account. Nothing collected.
 
