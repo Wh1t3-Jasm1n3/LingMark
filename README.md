@@ -14,6 +14,23 @@ SHA-256: `838d90bc7082429db1ed65997998ea3f7bb19b299de0145b03b2b76a1ae6b351`
 
 Every version is also attached to a [release](https://github.com/Wh1t3-Jasm1n3/LingMark/releases) here.
 
+## What's new in 1.0.3
+
+- **LingMark in your language.** English (US, UK and Australia), 简体中文, 日本語, Español (Latinoamérica), Deutsch and မြန်မာ — choose on the first screen or in Settings. The five non-English languages were translated automatically and are marked that way.
+- **Save on ⌘S**, and quitting now waits for your last edit to be written.
+- **Clearer save status:** *Autosaving*, *Autosaved*, and a green *Saved*.
+- **Fixed:** a menu command could run twice, and search mixed up some words in Japanese, Thai, Khmer, Burmese and Hindi.
+
+[All release notes](https://lingmark.hling.app/release_note)
+
+## Screenshots
+
+![The rich editor: a note with a callout, tasks and a table](https://lingmark.hling.app/screenshots/editor-daylight.png)
+
+![The knowledge graph with its settings panel](https://lingmark.hling.app/screenshots/graph.png)
+
+![A board with To do, Doing and Done lanes](https://lingmark.hling.app/screenshots/board.png)
+
 ## Links
 
 - Website and support: **https://lingmark.hling.app**
