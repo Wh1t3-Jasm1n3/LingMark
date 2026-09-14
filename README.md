@@ -8,18 +8,19 @@ Free. No account. Nothing collected.
 
 ## Download
 
-**[LingMark 1.0.3 for Mac](https://lingmark.hling.app/download/LingMark_1.0.3_aarch64.dmg)**: 16 MB, notarised by Apple. Apple silicon, macOS 13 or later.
+**[LingMark 1.0.4 for Mac](https://lingmark.hling.app/download/LingMark_1.0.4_aarch64.dmg)**: 17 MB, notarised by Apple. Apple silicon, macOS 13 or later.
 
-SHA-256: `838d90bc7082429db1ed65997998ea3f7bb19b299de0145b03b2b76a1ae6b351`
+SHA-256: `d9b342f3ffb04468812db886b4ccf649fbfc8470d2d566c5384c49b8ed70a283`
 
 Every version is also attached to a [release](https://github.com/Wh1t3-Jasm1n3/LingMark/releases) here.
 
-## What's new in 1.0.3
+## What's new in 1.0.4
 
-- **LingMark in your language.** English (US, UK and Australia), 简体中文, 日本語, Español (Latinoamérica), Deutsch and မြန်မာ. Choose on the first screen or in Settings. The five non-English languages were translated automatically and are marked that way.
-- **Save on ⌘S**, and quitting now waits for your last edit to be written.
-- **Clearer save status:** *Autosaving*, *Autosaved*, and a green *Saved*.
-- **Fixed:** a menu command could run twice, and search mixed up some words in Japanese, Thai, Khmer, Burmese and Hindi.
+- **LingMark keeps itself up to date.** It looks for new versions when it opens and once a day, and asks before installing one. **LingMark › Check for Updates…** looks straight away, and **Settings › General** turns the automatic check off.
+- **Coming from 1.0.3 or earlier?** Download 1.0.4 once from the link above; from then on, LingMark updates itself.
+- **Settings has categories and a search**, and is calmer and more compact.
+- **Burmese has room everywhere:** note names and every control show their stacked letters whole.
+- **Fixed:** Paper Mode's note named a theme that no longer exists, and a long answer in a confirmation could break over two lines.
 
 [All release notes](https://lingmark.hling.app/release_note)
 
