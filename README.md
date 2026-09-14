@@ -8,7 +8,7 @@ Free. No account. Nothing collected.
 
 ## Download
 
-**[LingMark 1.0.3 for Mac](https://lingmark.hling.app/download/LingMark_1.0.3_aarch64.dmg)** — 16 MB, notarised by Apple. Apple silicon, macOS 13 or later.
+**[LingMark 1.0.3 for Mac](https://lingmark.hling.app/download/LingMark_1.0.3_aarch64.dmg)**: 16 MB, notarised by Apple. Apple silicon, macOS 13 or later.
 
 SHA-256: `838d90bc7082429db1ed65997998ea3f7bb19b299de0145b03b2b76a1ae6b351`
 
@@ -16,7 +16,7 @@ Every version is also attached to a [release](https://github.com/Wh1t3-Jasm1n3/L
 
 ## What's new in 1.0.3
 
-- **LingMark in your language.** English (US, UK and Australia), 简体中文, 日本語, Español (Latinoamérica), Deutsch and မြန်မာ — choose on the first screen or in Settings. The five non-English languages were translated automatically and are marked that way.
+- **LingMark in your language.** English (US, UK and Australia), 简体中文, 日本語, Español (Latinoamérica), Deutsch and မြန်မာ. Choose on the first screen or in Settings. The five non-English languages were translated automatically and are marked that way.
 - **Save on ⌘S**, and quitting now waits for your last edit to be written.
 - **Clearer save status:** *Autosaving*, *Autosaved*, and a green *Saved*.
 - **Fixed:** a menu command could run twice, and search mixed up some words in Japanese, Thai, Khmer, Burmese and Hindi.
